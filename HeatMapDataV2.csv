@@ -1,0 +1,56 @@
+﻿group,variable,value
+movie,superNatural,2
+movie ,action,1
+movie,drama,4
+movie,fantasy,2
+movie,adventure,5
+movie ,romance ,3
+movie,comedy,1
+movie,SCI-FI,1
+movie,slice of life,1
+OVA,superNatural,1
+OVA,action,2
+OVA,military,1
+OVA,comedy,1
+OVA,mecha,1
+OVA,SCI-FI,1
+OVA,horror,1
+OVA,vampire,1
+OVA,Dementia,1
+OVA,Parody,1
+OVA,Seinen,1
+tv,mystery,6
+tv,police,3
+tv,pshych,20
+tv,superNat,47
+tv,thriller,13
+tv,action,78
+tv,drama,38
+tv,fantasy,40
+tv,shounen,45
+tv,adventure,32
+tv,game,7
+tv,romance,41
+tv,magic,17
+tv,military,6
+tv,comedy,69
+tv,school,44
+tv,mecha,8
+tv,superpower,21
+tv,SCI-FI,28
+tv,martial arts,4
+tv,music,3
+tv,ecchi,11
+tv,space,1
+tv,horror,13
+tv,vampire,6
+tv,Dementia,1
+tv,Parody,4
+tv,Harem,12
+tv,Demons,7
+tv,historical,6
+tv,shoujo,5
+tv,Seinen,17
+tv,slice of life,23
+tv,samurai,2
+tv,sports,3
