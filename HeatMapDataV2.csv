@@ -1,13 +1,13 @@
 ﻿group,variable,value
-movie,superNatural,2
-movie ,action,1
-movie,drama,4
-movie,fantasy,2
-movie,adventure,5
-movie ,romance ,3
-movie,comedy,1
-movie,SCI-FI,1
-movie,slice of life,1
+Movie,superNatural,2
+Movie ,action,1
+Movie,drama,4
+Movie,fantasy,2
+Movie,adventure,5
+Movie ,romance ,3
+Movie,comedy,1
+Movie,SCI-FI,1
+Movie,slice of life,1
 OVA,superNatural,1
 OVA,action,2
 OVA,military,1
